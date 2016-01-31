@@ -1,0 +1,4 @@
+STO 1
+HALT
+ENDCODE
+0 	  0

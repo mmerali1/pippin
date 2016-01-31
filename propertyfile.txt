@@ -1,0 +1,4 @@
+#File locations
+#Tue Dec 15 12:46:51 EST 2015
+ExecutableDirectory=C\:/Users/mmera_000/Documents/cs140/Assignments/assignment11/pexe/
+SourceDirectory=C\:/Users/mmera_000/Documents/cs140/Assignments/assignment11/pasm/
